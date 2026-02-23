@@ -1,4 +1,4 @@
-1#include <ultra64.h>
+#include <ultra64.h>
 #include <stdio.h>
 
 #include "sm64.h"
