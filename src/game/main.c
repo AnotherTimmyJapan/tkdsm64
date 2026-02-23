@@ -1,4 +1,4 @@
-#include <ultra64.h>
+1#include <ultra64.h>
 #include <stdio.h>
 
 #include "sm64.h"
@@ -56,7 +56,7 @@ s8 gDebugLevelSelect = FALSE;
 s8 D_8032C650 = 0;
 
 s8 gShowProfiler = FALSE;
-s8 gShowDebugText = FALSE;
+s8 gShowDebugText = TRUE;
 
 // unused
 void handle_debug_key_sequences(void) {
