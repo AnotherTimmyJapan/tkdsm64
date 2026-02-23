@@ -2,7 +2,6 @@
 #include "anim_060453C8.inc.c"
 #include "anim_06045D28.inc.c"
 #include "anim_0604671C.inc.c"
-#include "anim_0604675C.inc.c"
 #include "anim_06048200.inc.c"
 #include "anim_06049880.inc.c"
 #include "anim_0604A8E4.inc.c"
