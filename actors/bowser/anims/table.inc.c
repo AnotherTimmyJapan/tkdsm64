@@ -4,7 +4,7 @@ const struct Animation *const bowser_seg6_anims_06057690[] = {
     &bowser_seg6_anim_060453C8,
     &bowser_seg6_anim_06045D28,
     &bowser_seg6_anim_0604671C,
-    &bowser_seg6_anim_0604675C,
+//    &bowser_seg6_anim_0604675C,
     &bowser_seg6_anim_06048200,
     &bowser_seg6_anim_06049880,
     &bowser_seg6_anim_0604A8E4,
