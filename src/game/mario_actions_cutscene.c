@@ -522,6 +522,7 @@ s32 act_reading_sign(struct MarioState *m) {
         case 2:
             // dialog finished
             if (gCamera->cutscene == 0) {
+                play_sound_if_no_flag(m, SOUND_ACTION_READ_SIGN, MARIO_ACTION_SOUND_PLAYED);
                 disable_time_stop();
                 set_mario_action(m, ACT_IDLE, 0);
             }
